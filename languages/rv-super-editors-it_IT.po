@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RV Super Editor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-02 13:18+0100\n"
+"PO-Revision-Date: 2018-02-02 13:19+0100\n"
+"Last-Translator: Roma Virtuale S.r.L. <web@romavirtuale.com>\n"
+"Language-Team: Roma Virtuale S.r.L. <web@romavirtuale.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../rvsupereditors.php:35
+msgid "Please do not load this file directly!"
+msgstr "Per favore non cercare di caricare questo file direttamente!"
+
+#: ../rvsupereditors.php:46
+#: ../rvsupereditors.php:124
+msgid "RV Super Editors Options"
+msgstr "RV Super Editors Opzioni"
+
+#: ../rvsupereditors.php:46
+#: ../rvsupereditors.php:156
+#: ../rvsupereditors.php:177
+msgid "RV Super Editors"
+msgstr "RV Super Editors"
+
+#: ../rvsupereditors.php:130
+msgid "RV Super Editors Message: \"RV Super Editors\" role succesfully <strong>deleted</strong>"
+msgstr "RV Super Editors Messaggio: il nuovo ruolo \"RV Super Editors\" &egrave; stato <strong>eliminato</strong>"
+
+#: ../rvsupereditors.php:132
+msgid "RV Super Editors Message: \"RV Super Editors\" role succesfully <strong>added</strong>"
+msgstr "RV Super Editors Messaggio: il nuovo ruolo \"RV Super Editors\" &egrave; stato <strong>creato</strong>"
+
+#: ../rvsupereditors.php:138
+msgid "Hi! Thanks for using \"RV Super Editors\" Plugin. If you like or you think this plugin is usefull please..."
+msgstr "Ciao! Grazie per aver installato il nostro Plugin \"RV Super Editors\". Se ti piace o se ti &egrave; stato utile per favore...."
+
+#: ../rvsupereditors.php:140
+msgid "Visit our site"
+msgstr "Visita il nostro sito"
+
+#: ../rvsupereditors.php:141
+msgid "Like our Facebook Page"
+msgstr "Clicca Mi Piace sulla nostra Pagina Facebook"
+
+#: ../rvsupereditors.php:142
+msgid "Follow us on Twitter"
+msgstr "Seguici su Twitter"
+
+#: ../rvsupereditors.php:143
+msgid "Follow us on Instagram"
+msgstr "Seguici su Instagram"
+
+#: ../rvsupereditors.php:145
+msgid "Thanks :)"
+msgstr "Grazie :)"
+
+#: ../rvsupereditors.php:155
+msgid "All done: the \"RV Super Editors\" role exists! :-)"
+msgstr "Tutto fatto: il nuovo ruolo \"RV Super Editors\" esiste! :-)"
+
+#: ../rvsupereditors.php:156
+msgid "Assigning the role "
+msgstr "Assegnando il ruolo di "
+
+#: ../rvsupereditors.php:156
+msgid " to an user means that this user will be capable to do all pre-defined action for Editors, plus customize your site Appearance:"
+msgstr "ad un utente consentir&agrave; a quest'ultimo di effettuare tutte le azioni predefinite per gli Editori e, in pi&ugrave;, di personalizzare l'Aspetto del sito, ossia:"
+
+#: ../rvsupereditors.php:158
+msgid "Customize the theme (if supported by current theme)"
+msgstr "Personalizzare il tema (se &egrave; supportato dal tema usato)"
+
+#: ../rvsupereditors.php:159
+msgid "Edit Widgets"
+msgstr "Modificare i Widget"
+
+#: ../rvsupereditors.php:160
+msgid "Edit Menus"
+msgstr "Modificare i Menu"
+
+#: ../rvsupereditors.php:161
+msgid "Edit Background"
+msgstr "Modificare lo Sfondo"
+
+#: ../rvsupereditors.php:162
+msgid "Edit Header"
+msgstr "Modificare la Testata"
+
+#: ../rvsupereditors.php:164
+msgid "Don't change role of Admins Users!<strong> To test the new \"RV Super Editors\" role use a New User ;-)"
+msgstr "Ricorda di non modificare mai il ruolo del tuo utente Amministratore! <strong> Per provare il nuovo ruolo \"RV Super Editors\" usa un nuovo utente. ;-)"
+
+#: ../rvsupereditors.php:169
+msgid "Delete RV Super Editors Role"
+msgstr "Elimina il ruolo RV Super Editors"
+
+#: ../rvsupereditors.php:173
+msgid "Sorry for our bad English ... we are Italians! :-D"
+msgstr ":-)"
+
+#: ../rvsupereditors.php:177
+msgid "role doesn't exist. Do you want to create it?"
+msgstr ", il ruolo non esiste ancora o &egrave; stato eliminato. Lo vuoi creare?"
+
+#: ../rvsupereditors.php:182
+msgid "Create RV Super Editors Role"
+msgstr "Crea il ruolo RV Super Editors"
+
+#~ msgid "RV Super Editor"
+#~ msgstr "RV Super Editor"

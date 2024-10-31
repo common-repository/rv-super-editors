@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RV Super Editor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-02 13:13+0100\n"
+"PO-Revision-Date: 2018-02-02 13:17+0100\n"
+"Last-Translator: Roma Virtuale S.r.L. <web@romavirtuale.com>\n"
+"Language-Team: Roma Virtuale S.r.L. <web@romavirtuale.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../rvsupereditors.php:35
+msgid "Please do not load this file directly!"
+msgstr ""
+
+#: ../rvsupereditors.php:46
+#: ../rvsupereditors.php:124
+msgid "RV Super Editors Options"
+msgstr ""
+
+#: ../rvsupereditors.php:46
+#: ../rvsupereditors.php:156
+#: ../rvsupereditors.php:177
+msgid "RV Super Editors"
+msgstr ""
+
+#: ../rvsupereditors.php:130
+msgid "RV Super Editors Message: \"RV Super Editors\" role succesfully <strong>deleted</strong>"
+msgstr ""
+
+#: ../rvsupereditors.php:132
+msgid "RV Super Editors Message: \"RV Super Editors\" role succesfully <strong>added</strong>"
+msgstr ""
+
+#: ../rvsupereditors.php:138
+msgid "Hi! Thanks for using \"RV Super Editors\" Plugin. If you like or you think this plugin is usefull please..."
+msgstr ""
+
+#: ../rvsupereditors.php:140
+msgid "Visit our site"
+msgstr ""
+
+#: ../rvsupereditors.php:141
+msgid "Like our Facebook Page"
+msgstr ""
+
+#: ../rvsupereditors.php:142
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: ../rvsupereditors.php:143
+msgid "Follow us on Instagram"
+msgstr ""
+
+#: ../rvsupereditors.php:145
+msgid "Thanks :)"
+msgstr ""
+
+#: ../rvsupereditors.php:155
+msgid "All done: the \"RV Super Editors\" role exists! :-)"
+msgstr ""
+
+#: ../rvsupereditors.php:156
+msgid "Assigning the role "
+msgstr ""
+
+#: ../rvsupereditors.php:156
+msgid " to an user means that this user will be capable to do all pre-defined action for Editors, plus customize your site Appearance:"
+msgstr ""
+
+#: ../rvsupereditors.php:158
+msgid "Customize the theme (if supported by current theme)"
+msgstr ""
+
+#: ../rvsupereditors.php:159
+msgid "Edit Widgets"
+msgstr ""
+
+#: ../rvsupereditors.php:160
+msgid "Edit Menus"
+msgstr ""
+
+#: ../rvsupereditors.php:161
+msgid "Edit Background"
+msgstr ""
+
+#: ../rvsupereditors.php:162
+msgid "Edit Header"
+msgstr ""
+
+#: ../rvsupereditors.php:164
+msgid "Don't change role of Admins Users!<strong> To test the new \"RV Super Editors\" role use a New User ;-)"
+msgstr ""
+
+#: ../rvsupereditors.php:169
+msgid "Delete RV Super Editors Role"
+msgstr ""
+
+#: ../rvsupereditors.php:173
+msgid "Sorry for our bad English ... we are Italians! :-D"
+msgstr ""
+
+#: ../rvsupereditors.php:177
+msgid "role doesn't exist. Do you want to create it?"
+msgstr ""
+
+#: ../rvsupereditors.php:182
+msgid "Create RV Super Editors Role"
+msgstr ""
+
